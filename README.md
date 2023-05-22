@@ -1,4 +1,4 @@
-# ChatGPT的注册和使用 {ignore=true}
+# ChatGPT的注册和使用
 
 ## ChatGPT的注册
 
