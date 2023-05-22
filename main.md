@@ -1,7 +1,5 @@
 # ChatGPT的注册和使用 {ignore=true}
 
-[TOC]
-
 ## ChatGPT的注册
 
 >我们已为老师们准备和分配了专门用于实验的账号
